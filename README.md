@@ -19,7 +19,7 @@ In order for this application to work, the database parameters must be changed t
 **Fatal error: Uncaught Error: Call to a member function fetch_assoc() on bool in /Applications/XAMPP/xamppfiles/htdocs/IAQ-IoT-Project-WebApp-main/index.php:6 Stack trace: #0 {main} thrown in /Applications/XAMPP/xamppfiles/htdocs/IAQ-IoT-Project-WebApp-main/index.php on line 6**
 
 This file can be found here:
-*IAQ-IoT-Project-WebApp-main/iaqapi/config.php*
+*IAQ-IoT-Project-WebApp-main/api/config.php*
 
 The structure of the MySQL table is as follows:
 ![Table Structure](https://github.com/DylanWall96/IAQ-IoT-Project-WebApp-main/blob/main/img/tableStructure.jpg?raw=true)
