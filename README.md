@@ -22,4 +22,4 @@ This file can be found here:
 *IAQ-IoT-Project-WebApp-main/iaqapi/config.php*
 
 The structure of the MySQL table is as follows:
-![Table Structure](https://github.com/DylanWall96/IAQ-IoT-Project-WebApp-main/blob/main/img/logo.png?raw=true)
+![Table Structure](https://github.com/DylanWall96/IAQ-IoT-Project-WebApp-main/blob/main/img/tableStructure?raw=true)
