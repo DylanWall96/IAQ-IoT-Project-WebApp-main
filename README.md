@@ -1,4 +1,4 @@
-#### Read this to ensure project runs
+###### Read this to ensure project runs
 
 To run this project locally place it in *XAMPP/xamppfiles/htdocs/* and locate to http://localhost/IAQ-IoT-Project-WebApp-main/index.php
 
@@ -22,4 +22,4 @@ This file can be found here:
 *IAQ-IoT-Project-WebApp-main/iaqapi/config.php*
 
 The structure of the MySQL table is as follows:
-![alt text](https://github.com/DylanWall96/IAQ-IoT-Project-WebApp-main/blob/main/img/TableStructure.png?raw=true)
+![alt text](https://github.com/DylanWall96/IAQ-IoT-Project-WebApp-main/blob/main/img/tableStructure.tiff?raw=true)
