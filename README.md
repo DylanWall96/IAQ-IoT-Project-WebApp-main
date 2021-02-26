@@ -1,4 +1,4 @@
-###### Read this to ensure project runs
+### Read this to ensure project runs
 
 To run this project locally place it in *XAMPP/xamppfiles/htdocs/* and locate to http://localhost/IAQ-IoT-Project-WebApp-main/index.php
 
