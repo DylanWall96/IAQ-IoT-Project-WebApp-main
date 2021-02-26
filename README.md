@@ -20,3 +20,6 @@ In order for this application to work, the database parameters must be changed t
 
 This file can be found here:
 *IAQ-IoT-Project-WebApp-main/iaqapi/config.php*
+
+The structure of the MySQL table is as follows:
+![alt text](https://github.com/DylanWall96/IAQ-IoT-Project-WebApp-main/blob/main/img/TableStructure.png?raw=true)
