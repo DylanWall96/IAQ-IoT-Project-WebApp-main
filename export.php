@@ -1,4 +1,4 @@
-<?
+<?php
 // Database Connection
 include '/Applications/XAMPP/xamppfiles/htdocs/AirQualityProject/api/config.php';
 //include '/var/www/html/IAQIOT/api/config.php';
